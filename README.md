@@ -5,7 +5,7 @@
 "Generate Phone Number"
 
 > Language: JavaScript
-
+>
 > Difficulty: Medium
 
 ### Objectives
@@ -14,7 +14,9 @@
 - The output should be a new string that is a valid US phone number.
 
 > i.e.:
+>
 > input => `8885653421`
+>
 > output => `'888-565-3421'`
 
 #### Notes
