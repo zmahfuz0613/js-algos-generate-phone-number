@@ -4,6 +4,10 @@
 
 "Generate Phone Number"
 
+> Language: JavaScript
+
+> Difficulty: Medium
+
 ### Objectives
 
 - Create a function which takes a given argument consisting of numbers, `nums`.
@@ -13,16 +17,16 @@
 > input => `8885653421`
 > output => `'888-565-3421'`
 
+#### Notes
+
+- You must account for various data types for the argument input. (`nums` can be **either** an integer or an array of integers.)
+- You do **not** need to account for `+1`, the United States country code.
+
 ### Getting Started
 
 - Fork and clone this repo.
 - Run `npm i` from within the repo.
 - Run `npm run test` or `npm test` to make sure the tests work. (They should fail.)
 - Get hacking on the problem and test when you think you've got it!
-
-### Notes
-
-- You must account for various data types for the argument input. (`nums` can be **either** an integer or an array of integers.)
-- You do **not** need to account for `+1`, the United States country code.
 
 Pull requests due by 11pm. Happy hacking!
