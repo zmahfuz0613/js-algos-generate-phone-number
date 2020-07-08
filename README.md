@@ -23,6 +23,7 @@
 
 - You must account for various data types for the argument input. (`nums` can be **either** an integer or an array of integers.)
 - You do **not** need to account for `+1`, the United States country code.
+- **No for loops allowed.** Refer to the [Airbnb Style Guide](https://github.com/airbnb/javascript#iterators-and-generators) for more on why "for loops" are disadvantageous, compared to other iterators.
 
 ### Getting Started
 
